@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Captured network traffic
+logs/*.pcap
+logs/*.pcapng
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
